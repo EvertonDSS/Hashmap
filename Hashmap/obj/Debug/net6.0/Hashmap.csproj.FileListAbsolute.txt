@@ -1,0 +1,15 @@
+C:\Users\evert\RiderProjects\Hashmap\Hashmap\bin\Debug\net6.0\Hashmap.exe
+C:\Users\evert\RiderProjects\Hashmap\Hashmap\bin\Debug\net6.0\Hashmap.deps.json
+C:\Users\evert\RiderProjects\Hashmap\Hashmap\bin\Debug\net6.0\Hashmap.runtimeconfig.json
+C:\Users\evert\RiderProjects\Hashmap\Hashmap\bin\Debug\net6.0\Hashmap.dll
+C:\Users\evert\RiderProjects\Hashmap\Hashmap\bin\Debug\net6.0\Hashmap.pdb
+C:\Users\evert\RiderProjects\Hashmap\Hashmap\obj\Debug\net6.0\Hashmap.csproj.AssemblyReference.cache
+C:\Users\evert\RiderProjects\Hashmap\Hashmap\obj\Debug\net6.0\Hashmap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evert\RiderProjects\Hashmap\Hashmap\obj\Debug\net6.0\Hashmap.AssemblyInfoInputs.cache
+C:\Users\evert\RiderProjects\Hashmap\Hashmap\obj\Debug\net6.0\Hashmap.AssemblyInfo.cs
+C:\Users\evert\RiderProjects\Hashmap\Hashmap\obj\Debug\net6.0\Hashmap.csproj.CoreCompileInputs.cache
+C:\Users\evert\RiderProjects\Hashmap\Hashmap\obj\Debug\net6.0\Hashmap.dll
+C:\Users\evert\RiderProjects\Hashmap\Hashmap\obj\Debug\net6.0\refint\Hashmap.dll
+C:\Users\evert\RiderProjects\Hashmap\Hashmap\obj\Debug\net6.0\Hashmap.pdb
+C:\Users\evert\RiderProjects\Hashmap\Hashmap\obj\Debug\net6.0\Hashmap.genruntimeconfig.cache
+C:\Users\evert\RiderProjects\Hashmap\Hashmap\obj\Debug\net6.0\ref\Hashmap.dll
